@@ -1,5 +1,7 @@
 # Introduction
 
+本Gitbook主要作为个人备忘录和待办事项列表使用。更多我的信息请查看以下相关链接：
+
 \*\*\*\*[**我的个人主页\(qingnansun.de\)**](http://qingnansun.de/)  
 [**我的知乎**](https://www.zhihu.com/people/sqn-samboy)  
 ****[**喜马拉雅:知楠而进**](http://xima.tv/PEUdi6)  
