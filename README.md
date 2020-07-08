@@ -1,6 +1,10 @@
 # Introduction
 
-本Gitbook主要作为个人备忘录和待办事项列表使用。更多我的信息请查看以下相关链接：
+本Gitbook主要作为个人备忘录和待办事项列表使用。
+
+**手机版：**左上方菜单按钮查看文章目录，右上方标题后的菜单按钮查看本文目录。
+
+更多我的信息请查看以下相关链接：
 
 \*\*\*\*[**我的个人主页\(qingnansun.de\)**](http://qingnansun.de/)  
 [**我的知乎**](https://www.zhihu.com/people/sqn-samboy)  
