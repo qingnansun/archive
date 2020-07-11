@@ -14,11 +14,13 @@
 [Instagram](https://www.instagram.com/qingnan_samboy/)  
 [Photography](https://qingnansun.wixsite.com/photo)  
 [ORCiD](https://orcid.org/0000-0003-0432-8153)  
-[Google Scholar](https://scholar.google.ch/citations?user=CqFUbO8AAAAJ&hl=en)
+[Google Scholar](https://scholar.google.ch/citations?user=CqFUbO8AAAAJ&hl=en)  
+[Github](https://github.com/qingnansun)
 
 [**Gitbook - archive**](https://qingnansun.gitbook.io/archive/)  
-****[**Gitbook - 我的文章汇总**](https://qingnansun.gitbook.io/articles/)  
 ****[**Gitbook - Knowledge Base**](https://qingnansun.gitbook.io/knowledgebase/)  
+****[**Gitbook - 我的文章汇总**](https://qingnansun.gitbook.io/articles/)  
+****[**Gitbook - 人生备忘录**](https://qingnansun.gitbook.io/life/)  
 [Gitbook - 领域的大牛门](https://qingnansun.gitbook.io/bignames/)  
 [Gitbook - 有趣的问题](https://qingnansun.gitbook.io/problems/)
 
